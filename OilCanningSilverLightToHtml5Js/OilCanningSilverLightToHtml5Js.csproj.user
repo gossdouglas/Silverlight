@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
-  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
-    <StartProgram>C:\Users\gosstony\source\repos\Silverlight\OilCanningSilverLightToHtml5Js\packages\CSHTML5.Migration.2.0.0-alpha49-068\tools\simulator\CSharpXamlForHtml5.Simulator.exe</StartProgram>
-  </PropertyGroup>
-  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|AnyCPU'">
-    <StartProgram>C:\Users\gosstony\source\repos\Silverlight\OilCanningSilverLightToHtml5Js\packages\CSHTML5.Migration.2.0.0-alpha49-068\tools\simulator\CSharpXamlForHtml5.Simulator.exe</StartProgram>
-  </PropertyGroup>
-</Project>
