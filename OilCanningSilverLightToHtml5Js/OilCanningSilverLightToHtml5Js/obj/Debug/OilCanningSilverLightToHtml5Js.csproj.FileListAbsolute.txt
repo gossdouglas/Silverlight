@@ -1,14 +1,3 @@
-C:\Users\gosstony\source\repos\Silverlight\Silverlight\OilCanningSilverLightToHtml5Js\OilCanningSilverLightToHtml5Js\bin\Debug\OilCanningSilverLightToHtml5Js.dll
-C:\Users\gosstony\source\repos\Silverlight\Silverlight\OilCanningSilverLightToHtml5Js\OilCanningSilverLightToHtml5Js\bin\Debug\OilCanningSilverLightToHtml5Js.pdb
-C:\Users\gosstony\source\repos\Silverlight\Silverlight\OilCanningSilverLightToHtml5Js\OilCanningSilverLightToHtml5Js\bin\Debug\Bridge.dll
-C:\Users\gosstony\source\repos\Silverlight\Silverlight\OilCanningSilverLightToHtml5Js\OilCanningSilverLightToHtml5Js\bin\Debug\CSHTML5.Migration.dll
-C:\Users\gosstony\source\repos\Silverlight\Silverlight\OilCanningSilverLightToHtml5Js\OilCanningSilverLightToHtml5Js\bin\Debug\CSHTML5.Stubs.dll
-C:\Users\gosstony\source\repos\Silverlight\Silverlight\OilCanningSilverLightToHtml5Js\OilCanningSilverLightToHtml5Js\bin\Debug\Bridge.xml
-C:\Users\gosstony\source\repos\Silverlight\Silverlight\OilCanningSilverLightToHtml5Js\OilCanningSilverLightToHtml5Js\bin\Debug\CSHTML5.Migration.pdb
-C:\Users\gosstony\source\repos\Silverlight\Silverlight\OilCanningSilverLightToHtml5Js\OilCanningSilverLightToHtml5Js\bin\Debug\CSHTML5.Migration.xml
 C:\Users\gosstony\source\repos\Silverlight\Silverlight\OilCanningSilverLightToHtml5Js\OilCanningSilverLightToHtml5Js\obj\Debug\OilCanningSilverLightToHtml5Js.csproj.AssemblyReference.cache
 C:\Users\gosstony\source\repos\Silverlight\Silverlight\OilCanningSilverLightToHtml5Js\OilCanningSilverLightToHtml5Js\obj\Debug\OilCanningSilverLightToHtml5Js.g.resources
 C:\Users\gosstony\source\repos\Silverlight\Silverlight\OilCanningSilverLightToHtml5Js\OilCanningSilverLightToHtml5Js\obj\Debug\OilCanningSilverLightToHtml5Js.csproj.CoreCompileInputs.cache
-C:\Users\gosstony\source\repos\Silverlight\Silverlight\OilCanningSilverLightToHtml5Js\OilCanningSilverLightToHtml5Js\obj\Debug\OilCanningSilverLightToHtml5Js.csproj.CopyComplete
-C:\Users\gosstony\source\repos\Silverlight\Silverlight\OilCanningSilverLightToHtml5Js\OilCanningSilverLightToHtml5Js\obj\Debug\OilCanningSilverLightToHtml5Js.dll
-C:\Users\gosstony\source\repos\Silverlight\Silverlight\OilCanningSilverLightToHtml5Js\OilCanningSilverLightToHtml5Js\obj\Debug\OilCanningSilverLightToHtml5Js.pdb

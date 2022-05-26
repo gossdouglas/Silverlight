@@ -45,6 +45,7 @@
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
     </Compile>
+    <Compile Include="MainPage.cs" />
     <Compile Include="MainPage.xaml.cs">
       <DependentUpon>MainPage.xaml</DependentUpon>
     </Compile>
@@ -66,6 +67,9 @@
     <Reference Include="Bridge, Version=17.9.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>packages\CSHTML5.Migration.2.0.0-alpha49-068\lib\net40\Bridge.dll</HintPath>
       <Private>True</Private>
+    </Reference>
+    <Reference Include="CSHTML5">
+      <HintPath>packages\CSHTML5.Migration.2.0.0-alpha49-068\lib\net40\CSHTML5.dll</HintPath>
     </Reference>
     <Reference Include="CSHTML5.Migration, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>packages\CSHTML5.Migration.2.0.0-alpha49-068\lib\net40\CSHTML5.Migration.dll</HintPath>

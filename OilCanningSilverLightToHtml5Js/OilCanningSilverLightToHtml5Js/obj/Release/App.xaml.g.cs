@@ -1,4 +1,4 @@
-// <CSHTML5><XamlHash>9096C5E9D5BE046100473F16A630E6E7</XamlHash><PassNumber>1</PassNumber><CompilationDate>5/26/2022 2:50:50 PM</CompilationDate></CSHTML5>
+// <CSHTML5><XamlHash>93E36B6E4983051454AC45293D8EBEF4</XamlHash><PassNumber>1</PassNumber><CompilationDate>5/26/2022 3:52:05 PM</CompilationDate></CSHTML5>
 
 
 
@@ -32,8 +32,9 @@ partial class App : global::System.Windows.Application
 #pragma warning disable 169, 649, 0628 // Prevents warning CS0169 ('field ... is never used'), CS0649 ('field ... is never assigned to, and will always have its default value null'), and CS0628 ('member : new protected member declared in sealed class')
 
 
-private global::System.Windows.ResourceDictionary Unused_5c65b41c6e2548379b0fbc3eb2e4ac5c;
-private global::System.Windows.Application Unused_e4a279303d2640fa99697e2363b5df53;
+private global::System.Windows.Setter Unused_f0b06b64c98e457f80908ec9f2f4f4b8;
+private global::System.Windows.Style Unused_e73f039807f04aaea0f4d3cc565b5d96;
+private global::System.Windows.Application Unused_9608f3f255fc4d7480880bf753b0594a;
 #pragma warning restore 169, 649, 0628
 
 
@@ -56,6 +57,7 @@ global::CSHTML5.Internal.StartupAssemblyInfo.OutputRootPath = @"Output\";
 global::CSHTML5.Internal.StartupAssemblyInfo.OutputAppFilesPath = @"app-cshtml5\app\";
 global::CSHTML5.Internal.StartupAssemblyInfo.OutputLibrariesPath = @"app-cshtml5\libs\";
 global::CSHTML5.Internal.StartupAssemblyInfo.OutputResourcesPath = @"app-cshtml5\res\";
+
 
 
 

@@ -1,4 +1,4 @@
-// <CSHTML5><XamlHash>8D56B3A5AD4D78F47190262424CDEA34</XamlHash><PassNumber>2</PassNumber><CompilationDate>5/26/2022 2:51:07 PM</CompilationDate></CSHTML5>
+// <CSHTML5><XamlHash>85987AA2D768EAE7FBD3DF741F8F2C59</XamlHash><PassNumber>1</PassNumber><CompilationDate>5/26/2022 4:50:28 PM</CompilationDate></CSHTML5>
 
 
 
@@ -32,7 +32,9 @@ partial class MainPage : global::System.Windows.Controls.Page
 #pragma warning disable 169, 649, 0628 // Prevents warning CS0169 ('field ... is never used'), CS0649 ('field ... is never assigned to, and will always have its default value null'), and CS0628 ('member : new protected member declared in sealed class')
 internal global::System.Windows.Controls.TextBlock TextBlock1;
 
-
+private global::System.Windows.Controls.TextBlock Unused_70d3145d8d3147fc8a5a2561440bff9d;
+private global::System.Windows.Controls.Canvas Unused_907dec352d4c400b9943d71e609b0d3b;
+private global::System.Windows.Controls.Page Unused_aad45649273443fca9e3447ac669685f;
 #pragma warning restore 169, 649, 0628
 
 
@@ -52,22 +54,11 @@ internal global::System.Windows.Controls.TextBlock TextBlock1;
 
 
 
-var Canvas_0f962cab71304ce2b159bf618b47710e = new global::System.Windows.Controls.Canvas();
-var TextBlock_33ae353e3e534340b1e535f67dc9a347 = new global::System.Windows.Controls.TextBlock();
-TextBlock_33ae353e3e534340b1e535f67dc9a347.Text = @"Hello World!";
-this.RegisterName("TextBlock1", TextBlock_33ae353e3e534340b1e535f67dc9a347);
-TextBlock_33ae353e3e534340b1e535f67dc9a347.Name = "TextBlock1";
-global::System.Windows.Controls.Canvas.SetLeft(TextBlock_33ae353e3e534340b1e535f67dc9a347,20D);
-global::System.Windows.Controls.Canvas.SetTop(TextBlock_33ae353e3e534340b1e535f67dc9a347,30D);
-
-Canvas_0f962cab71304ce2b159bf618b47710e.Children.Add(TextBlock_33ae353e3e534340b1e535f67dc9a347);
-
-
-this.Content = Canvas_0f962cab71304ce2b159bf618b47710e;
 
 
 
-TextBlock1 = TextBlock_33ae353e3e534340b1e535f67dc9a347;
+
+
 
 
     
